@@ -1,0 +1,11 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "lending page for bookstore maket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dslayer33",
+  "license": "ISC"
+}

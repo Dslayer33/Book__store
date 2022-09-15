@@ -1,0 +1,1092 @@
+@media screen and (max-width:250px) {
+    html {
+        width: 100%;
+        height: 100%;
+        font-size: 60%;
+    }
+
+    /*.header__menu--button {
+        height: 4rem;
+    }
+    .menu__button-textcontent {
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+
+    .header__acc--button {
+        height: 4rem;
+
+    }
+    .acc__button-textcontent {
+        margin-top: 6rem;
+        margin-right: 3rem;
+    }*/
+
+    #menuButt {
+        height: 4rem;
+    }
+    #menuText {
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+
+    #accBut {
+        height: 4rem;
+
+    }
+    #accText {
+        margin-top: 6rem;
+        margin-right: 3rem;
+    }
+
+    /*.header__text-top {
+        text-align: center;
+        transform: translateY(10rem);
+        font-family:'Dancing Script', cursive;
+        font-weight: 600;
+        font-size: 3rem;
+    }
+    
+    .header__text-bottom {
+        margin-top: 2rem;
+        text-align: center;
+        transform: translateY(10rem);
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Oleo Script', cursive;
+        font-size: 1.5rem;
+    }*/
+
+    #textTop {
+        text-align: center;
+        transform: translateY(10rem);
+        font-family:'Dancing Script', cursive;
+        font-weight: 600;
+        font-size: 3rem;
+    }
+    
+    #textBottom {
+        margin-top: 2rem;
+        text-align: center;
+        transform: translateY(10rem);
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Oleo Script', cursive;
+        font-size: 1.5rem;
+    }
+
+
+    #headImg {
+        width: 8rem;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        left: 50%;
+        top: 60%;
+    }
+
+
+    #bodyForm {
+        font-size: 1.5rem;
+    }
+
+    #formImg {
+        width: 3rem;
+        margin-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .body__text {
+        font-size: 2rem;
+    }
+
+    .block__deals {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        }
+
+        #Deals {
+            top: 1.5rem;
+        }
+
+        .deals__link {
+            font-size: 1.5rem;
+        }
+
+
+        .deals__img1 {
+            display: none;
+        }
+
+        .deals__img2 {
+            display: none;
+        }
+    
+
+
+    .body__list {
+        display: none;
+    }
+
+    
+
+    #books {
+        top: 0;
+        height: 94.0%;
+    }
+
+    .collection__text {
+        font-size: 1.5rem;
+    }
+
+    .fantastic__text {
+        font-size: 1.5rem; 
+    }
+
+    .horrors__text {
+        font-size: 1.5rem; 
+    }
+
+    .programming__text {
+        font-size: 1.5rem;
+    }
+
+        .collection__img1 {
+          display: none;
+        }
+
+        .collection__img2 {
+            display: none;
+        }
+
+        .collection__item1 {
+            margin-top: 2.7rem;
+        }
+        
+    
+
+        .collection__item4 {
+            margin-top: 2.7rem;
+        }
+
+
+        
+            .collection__item2 {
+                display: none;
+            }
+            .block2__text {
+                display: none;
+            }
+
+
+
+            .collection__item3 {
+                display: none;
+            }
+            .block3__text {
+                display: none;
+            }
+
+
+
+        #covers2 {
+            margin-top: 4rem;
+        }
+
+        #covers3 {
+            margin-top: 4rem;
+        }
+
+        #covers4 {
+            margin-top: 4rem;
+        }
+
+        .fantastic__img1 {
+          display: none;
+        }
+
+        .fantastic__img2 {
+            display: none;
+        }
+
+
+            .fantastic__item2 {
+                display: none;
+            }
+            .block6__text {
+                display: none;
+            }
+
+
+            .fantastic__item3 {
+                display: none;
+            }
+            .block7__text {
+                display: none;
+            }
+
+        
+
+        .horrors__img1 {
+            display: none;
+        }
+
+        .horrors__img2 {
+            display: none;
+        }
+
+        .programming__img1 {
+            display: none;
+          }
+  
+          .programming__img2 {
+              display: none;
+          }
+
+
+            .horror__item2 {
+                display: none;
+            }
+            .block10__text {
+                display: none;
+            }
+
+    
+            .horror__item3 {
+                display: none;
+            }
+            .block11__text {
+                display: none;
+            }
+    
+
+        
+            .programm__item2 {
+                display: none;
+            }
+            .block14__text {
+                display: none;
+            }
+
+            .programm__item3 {
+                display: none;
+            }
+            .block15__text {
+                display: none;
+            }
+
+
+          #book__name {
+            font-size: 1.2rem;
+          }
+
+    
+
+    #textImg {
+        display: none;
+    }
+
+    #footHelp {
+        left: 0;
+        margin-left: 5.5rem;
+    }
+
+    #footCreater {
+        display: none;
+    }
+
+    #footFol {
+        display: none; 
+    }
+
+    #footPriv {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 65%;
+    }
+}
+
+@media screen and (max-width:314px) {
+    .body__covers {
+        height: 72%;
+    }
+
+
+
+#covers2 {
+    margin-top: 3rem;
+}
+
+#covers3 {
+    margin-top: 3rem;
+}
+
+#covers4 {
+    margin-top: 3rem;
+}
+}
+
+@media screen and (max-width:300px) {
+    #menuButt {
+        height: 4rem;
+    }
+    #menuText {
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+
+    #accBut {
+        height: 4rem;
+
+    }
+    #accText {
+        margin-top: 6rem;
+        margin-right: 3rem;
+    }
+
+    #bodyForm {
+        font-size: 1.5rem;
+    }
+
+    #formImg {
+        width: 3rem;
+        margin-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    #books {
+        top: 0;
+        height: 95.0%;
+    }
+
+    #coll {
+        font-size: 1.5rem;
+    }
+
+    #fant {
+        font-size: 1.5rem; 
+    }
+
+    #horr {
+        font-size: 1.5rem; 
+    }
+
+    #progg {
+        font-size: 1.5rem;
+    }
+
+    #textImg {
+        display: none;
+    }
+
+    #footHelp {
+        left: 0;
+        margin-left: 5.5rem;
+    }
+
+    #footCreater {
+        display: none;
+    }
+
+    #footFol {
+        display: none; 
+    }
+
+    #footPriv {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 65%;
+    }
+}
+
+@media screen and (max-width:355px) {
+    .collection__img1 {
+        display: none;
+      }
+
+      .collection__img2 {
+          display: none;
+      }
+
+      .fantastic__img1 {
+        display: none;
+      }
+
+      .fantastic__img2 {
+          display: none;
+      }
+
+      .horrors__img1 {
+        display: none;
+    }
+
+    .horrors__img2 {
+        display: none;
+    }
+
+    .programming__img1 {
+        display: none;
+      }
+
+      .programming__img2 {
+          display: none;
+      }
+
+     
+}
+
+
+
+@media screen and (max-width:310px) {
+    #textTop {
+        text-align: center;
+        transform: translateY(10rem);
+        font-family:'Dancing Script', cursive;
+        font-weight: 600;
+        font-size: 3rem;
+    }
+    
+    #textBottom {
+        margin-top: 2rem;
+        text-align: center;
+        transform: translateY(10rem);
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Oleo Script', cursive;
+        font-size: 1.5rem;
+    }
+
+}
+
+@media screen and (max-width:325px) {
+    #textImg {
+        display: none;
+    }
+}
+
+@media screen and (max-width:348px) {
+    .deals__box {
+        top: 1.5rem;
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:500px) {
+    html {
+        width: 100%;
+        height: 100%;
+        font-size: 60%;
+    }
+
+    .header__menu--button {
+        height: 4rem;
+    }
+    .menu__button-textcontent {
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+
+    .header__acc--button {
+        height: 4rem;
+
+    }
+    .acc__button-textcontent {
+        margin-top: 6rem;
+        margin-right: 3rem;
+    }
+
+
+    .header__text-top {
+        text-align: center;
+        transform: translateY(10rem);
+        font-family:'Dancing Script', cursive;
+        font-weight: 600;
+        font-size: 3.5rem;
+    }
+    
+    .header__text-bottom {
+        margin-top: 2rem;
+        text-align: center;
+        transform: translateY(10rem);
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Oleo Script', cursive;
+        font-size: 2rem;
+    }
+
+    .header__img {
+        width: 8rem;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        left: 50%;
+        top: 60%;
+    }
+
+
+    .body__form-input {
+        font-size: 1.5rem;
+    }
+
+    .body__form-icon {
+        width: 3rem;
+        margin-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .body__text {
+        font-size: 2rem;
+    }
+
+    .block__deals {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        }
+
+        #Deals {
+            top: 2.5rem;
+        }
+
+        .deals__link {
+            font-size: 1.5rem;
+        }
+
+
+        .deals__img1 {
+            display: none;
+        }
+
+        .deals__img2 {
+            display: none;
+        }
+    
+
+
+    .body__list {
+        display: none;
+    }
+
+    
+
+    .covers__collection {
+        top: 0;
+        height: 94.0%;
+    }
+
+    .collection__text {
+        font-size: 1.5rem;
+    }
+
+    .fantastic__text {
+        font-size: 1.5rem; 
+    }
+
+    .horrors__text {
+        font-size: 1.5rem; 
+    }
+
+    .programming__text {
+        font-size: 1.5rem;
+    }
+
+        .collection__img1 {
+          /*display: none;*/
+          height: 1.5rem;
+        }
+
+        .collection__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .collection__item1 {
+            margin-top: 2.7rem;
+        }
+        
+    
+
+        .collection__item4 {
+            margin-top: 2.7rem;
+        }
+
+
+        
+            .collection__item2 {
+                display: none;
+            }
+            .block2__text {
+                display: none;
+            }
+
+
+
+            .collection__item3 {
+                display: none;
+            }
+            .block3__text {
+                display: none;
+            }
+
+
+
+        #covers2 {
+            margin-top: 4rem;
+        }
+
+        #covers3 {
+            margin-top: 4rem;
+        }
+
+        #covers4 {
+            margin-top: 4rem;
+        }
+
+        .fantastic__img1 {
+          /*display: none;*/
+          height: 1.5rem;
+        }
+
+        .fantastic__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+
+            .fantastic__item2 {
+                display: none;
+            }
+            .block6__text {
+                display: none;
+            }
+
+
+            .fantastic__item3 {
+                display: none;
+            }
+            .block7__text {
+                display: none;
+            }
+
+        
+
+        .horrors__img1 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .horrors__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .programming__img1 {
+            /*display: none;*/
+            height: 1.5rem;
+          }
+  
+          .programming__img2 {
+              /*display: none;*/
+              height: 1.5rem;
+          }
+
+
+            .horror__item2 {
+                display: none;
+            }
+            .block10__text {
+                display: none;
+            }
+
+    
+            .horror__item3 {
+                display: none;
+            }
+            .block11__text {
+                display: none;
+            }
+    
+
+        
+            .programm__item2 {
+                display: none;
+            }
+            .block14__text {
+                display: none;
+            }
+
+            .programm__item3 {
+                display: none;
+            }
+            .block15__text {
+                display: none;
+            }
+
+
+          #book__name {
+            font-size: 1.2rem;
+          }
+
+    
+
+    #textImg {
+        /*display: none;*/
+        left: 0;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #footHelp {
+        left: 0;
+        margin-left: 5.5rem;
+    }
+
+    #footCreater {
+        display: none;
+    }
+
+    #footFol {
+        display: none; 
+    }
+
+    #footPriv {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 65%;
+    }
+
+}
+
+
+
+@media screen and (max-width:570px) {
+    .deals__img1 {
+        display: none;
+    }
+
+    .deals__img2 {
+        display: none;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .collection__item3 {
+        display: none;
+    }
+    .block3__text {
+        display: none;
+    }
+
+    .fantastic__item3 {
+        display: none;
+    }
+    .block7__text {
+        display: none;
+    }
+
+    .horror__item3 {
+        display: none;
+    }
+    .block11__text {
+        display: none;
+    }
+
+    .programm__item3 {
+        display: none;
+    }
+    .block15__text {
+        display: none;
+    }
+}
+
+@media screen and (max-width:775px) {
+    .list__img1 {
+        display: none; 
+    }
+
+    .list__img2 {
+        display: none; 
+    }
+}
+
+@media screen and (max-width:1000px) {
+    html {
+        width: 100%;
+        height: 100%;
+        font-size: 60%;
+    }
+
+    .header__menu--button {
+        height: 5rem;
+    }
+    .menu__button-textcontent {
+        margin-top: 7rem;
+        margin-left: 4rem;
+    }
+
+    .header__acc--button {
+        height: 5rem;
+
+    }
+    .acc__button-textcontent {
+        margin-top: 7rem;
+        margin-right: 4rem;
+    }
+
+
+    .header__text-top {
+        text-align: center;
+        transform: translateY(10rem);
+        font-family:'Dancing Script', cursive;
+        font-weight: 600;
+        font-size: 5rem;
+    }
+    
+    .header__text-bottom {
+        margin-top: 2rem;
+        text-align: center;
+        transform: translateY(10rem);
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Oleo Script', cursive;
+        font-size: 2rem;
+    }
+
+    .header__img {
+        width: 10rem;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        left: 50%;
+        top: 65%;
+    }
+
+
+    .body__form-input {
+        font-size: 2rem;
+    }
+
+    .body__form-icon {
+        width: 4rem;
+        margin-left: 0.5rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .body__text {
+        font-size: 2rem;
+    }
+
+    .block__deals {
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+        }
+
+        #Deals {
+            top: 2.5rem;
+        }
+
+        .deals__link {
+            font-size: 1.5rem;
+        }
+
+
+        /*.deals__img1 {
+            display: none;
+        }
+
+        .deals__img2 {
+            display: none;
+        }*/
+    
+
+
+    /*.body__list {
+        display: none;
+    }*/
+
+    
+
+    .covers__collection {
+        /*top: 0;*/
+        height: 91.0%;
+    }
+
+    .collection__text {
+        font-size: 2rem;
+    }
+
+    .fantastic__text {
+        font-size: 2rem; 
+    }
+
+    .horrors__text {
+        font-size: 2rem; 
+    }
+
+    .programming__text {
+        font-size: 2rem;
+    }
+
+        .collection__img1 {
+          /*display: none;*/
+          height: 1.5rem;
+        }
+
+        .collection__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .collection__item1 {
+            margin-top: 2.7rem;
+        }
+        
+    
+
+        .collection__item4 {
+            margin-top: 2.7rem;
+        }
+
+
+        
+            /*.collection__item2 {
+                display: none;
+            }
+            .block2__text {
+                display: none;
+            }
+
+
+
+            .collection__item3 {
+                display: none;
+            }
+            .block3__text {
+                display: none;
+            }*/
+
+
+
+        /*#covers2 {
+            margin-top: 4rem;
+        }
+
+        #covers3 {
+            margin-top: 4rem;
+        }
+
+        #covers4 {
+            margin-top: 4rem;
+        }*/
+
+        .fantastic__img1 {
+          /*display: none;*/
+          height: 1.5rem;
+        }
+
+        .fantastic__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+
+           /* .fantastic__item2 {
+                display: none;
+            }
+            .block6__text {
+                display: none;
+            }
+
+
+            .fantastic__item3 {
+                display: none;
+            }
+            .block7__text {
+                display: none;
+            }*/
+
+        
+
+        .horrors__img1 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .horrors__img2 {
+            /*display: none;*/
+            height: 1.5rem;
+        }
+
+        .programming__img1 {
+            /*display: none;*/
+            height: 1.5rem;
+          }
+  
+          .programming__img2 {
+              /*display: none;*/
+              height: 1.5rem;
+          }
+
+
+            /*.horror__item2 {
+                display: none;
+            }
+            .block10__text {
+                display: none;
+            }
+
+    
+            .horror__item3 {
+                display: none;
+            }
+            .block11__text {
+                display: none;
+            }*/
+    
+
+        
+            /*.programm__item2 {
+                display: none;
+            }
+            .block14__text {
+                display: none;
+            }
+
+            .programm__item3 {
+                display: none;
+            }
+            .block15__text {
+                display: none;
+            }*/
+
+
+          #book__name {
+            font-size: 1.2rem;
+          }
+
+    
+
+    .footer__text-img {
+        /*display: none;*/
+        left: 0;
+        margin-left: 2.5rem;
+    }
+
+    .footer__help {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /*#footCreater {
+        display: none;
+    }*/
+
+    /*#footFol {
+        display: none; 
+    }*/
+
+    .footer__privacy {
+        left: 48%;
+        transform: translateX(-50%);
+        top: 50%;
+        transform: translateY(50%);
+    }
+}
